@@ -65,8 +65,8 @@ chmod +x launcher/run-android.sh
 
 This project is based on and inspired by the following open-source research:
 
-- **NVISO Security – disable-flutter-tls-verification**  
-  https://github.com/NVISOsecurity/disable-flutter-tls-verification
+**NVISO Security – disable-flutter-tls-verification**  
+https://github.com/NVISOsecurity/disable-flutter-tls-verification
 
 The original work has been significantly modified and extended, including:
 - Universal architecture-independent memory scanning

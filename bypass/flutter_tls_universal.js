@@ -6,7 +6,7 @@
  * NVISO Security – disable-flutter-tls-verification
  * https://github.com/NVISOsecurity/disable-flutter-tls-verification
  *
- * Modifications and extensions by Parad0x include:
+ * Modifications and extensions by parad0x-dep0t include:
  * - Universal architecture-independent scanning
  * - Emulator-safe execution (x86 / x86_64)
  * - Module-agnostic memory scanning

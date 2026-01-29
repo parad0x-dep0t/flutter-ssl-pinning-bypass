@@ -54,7 +54,7 @@ the application binary.
 chmod +x launcher/run-android.sh
 ./launcher/run-android.sh com.target.app
 .\launcher\run-android.ps1 com.target.app
-
+```
 
 ---
 

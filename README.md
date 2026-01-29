@@ -74,7 +74,7 @@ The original work has been significantly modified and extended, including:
 - Support for hybrid Flutter and native Android networking
 - Integration of OkHttp and TrustManager bypasses
 - One-click launcher scripts for streamlined usage
-
+```
 
 ## Repository Structure
 
@@ -90,6 +90,7 @@ flutter-tls-bypass-toolkit/
 ├── LICENSE
 ├── README.md
 └── VERSION
+```
 
 ## Disclaimer
 

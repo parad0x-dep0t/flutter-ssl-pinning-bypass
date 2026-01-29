@@ -1,0 +1,1 @@
+// Placeholder – TrustManager TLS bypass
